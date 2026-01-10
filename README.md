@@ -5,7 +5,7 @@
 I've been diving deep into technology for the past 4 years. My focus is on building solid backend architectures and integrating AI tools to speed up the development workflow.
 
 
-### 🛠️ Core Expertise & Technology Stack:
+### Technology Stack:
 
 | Category | Technologies |
 | :--- | :--- |
