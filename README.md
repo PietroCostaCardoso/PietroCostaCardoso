@@ -23,4 +23,4 @@ I've been diving deep into technology for the past 4 years. My focus is on build
 
 ---
 
-> 🚀 *Focused on delivering robust code and exploring advanced software architecture. Open for high-impact technical collaborations.* ha
+> 🚀 *Focused on delivering robust code and exploring advanced software architecture. Open for high-impact technical collaborations.* h
