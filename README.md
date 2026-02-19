@@ -14,12 +14,23 @@ I've been diving deep into technology for the past 4 years, working as a full st
 | **Data & Infrastructure** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
 | **Software Architecture** | `Design Patterns (GoF)` `MVC` `TDD` `POO` `Clean Code` |
 | **Automation & Tools** | `Selenium` `Regexp` `Ionic` `Linux Mint` |
-### AI-Powered Workflow:
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=microsoftcopilot&logoColor=white)
+
 ### 🌍 Languages:
 - 🇺🇸 **English** (Professional Working Proficiency)
 - 🇪🇸 **Spanish** (Elementary)
 - 🇧🇷 **Portuguese** (Native)
+
+<div align="center">
+  <a href="SEU_LINK_DO_LINKEDIN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+  </a>
+  <a href="mailto:SEU_EMAIL@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" />
+  </a>
+  <a href="SEU_LINK_DO_X" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X" height="40" />
+  </a>
+</div>
 
 ---
 
