@@ -1,8 +1,8 @@
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=400&speed=300&color=F7F7F7&width=435&lines=%3E_+Hello+World%3B;I'm+Pietro+Costa+Cardoso" alt="Typing SVG" />
 
 **Full Stack Developer**
-
-I've been diving deep into technology for the past 4 years. My focus is on building solid backend architectures and integrating AI tools to speed up the development workflow.
+  
+I've been diving deep into technology for the past 4 years, working as a full stack developer. My main focus is on backend, where I build robust and scalable systems.
 
 
 ### 🚀 Technology Stack & Engineering Skills
