@@ -24,10 +24,10 @@ I've been diving deep into technology for the past 4 years, working as a full st
   <a href="SEU_LINK_DO_LINKEDIN" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
-  <a href="mailto:SEU_EMAIL@gmail.com" target="_blank">
+  <a href="mailto:pietrocosta.cardoso1@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" />
   </a>
-  <a href="SEU_LINK_DO_X" target="_blank">
+  <a href="https://x.com/StackPietro" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="X" height="40" />
   </a>
 </div>
