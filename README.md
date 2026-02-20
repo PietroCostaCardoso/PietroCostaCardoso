@@ -21,7 +21,7 @@ I've been diving deep into technology for the past 4 years, working as a full st
 - 🇧🇷 **Portuguese** (Native)
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pietro-costa-cardoso-a58a8133b/" target="_blank">
+  <a href=Link_linkdin_aqui" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
   </a>
   <a href="mailto:pietrocosta.cardoso1@gmail.com" target="_blank">
