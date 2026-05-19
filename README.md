@@ -1,4 +1,8 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=400&speed=300&color=F7F7F7&width=435&lines=%3E_+Hello+World%3B;I'm+Pietro+Costa+Cardoso" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=300&speed=300&color=F0F6FC&width=400&lines=%3E_+Hello+World%3B;I'm+Pietro+Costa+Cardoso">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=400&speed=300&color=24292F&width=400&lines=%3E_+Hello+World%3B;I'm+Pietro+Costa+Cardoso">
+  <img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=300&speed=300&color=24292F&width=400&lines=%3E_+Hello+World%3B;I'm+Pietro+Costa+Cardoso">
+</picture>
 
 **Full Stack Developer**
   
