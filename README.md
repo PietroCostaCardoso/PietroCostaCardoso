@@ -6,7 +6,7 @@
 
 **Full Stack Developer**
   
-I've been diving deep into technology for the past 4 years, working as a full stack developer. My main focus is on backend, where I build robust and scalable systems.
+I've been diving deep into technology for the past 4 years, working as a full stack developer. My main focus is on backend, where I build robust and scalable systems..
 
 
 ### 🚀 Technology Stack & Engineering Skills
