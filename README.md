@@ -17,7 +17,7 @@ I've been diving deep into technology for the past 4 years, working as a full st
 | **Frontend & UI** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
 | **Data & Infrastructure** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
 | **Software Architecture** | `Design Patterns (GoF)` `MVC` `TDD` `POO` `Clean Code` |
-| **Automation & Tools** | `Selenium` `Regexp` `Ionic` `Linux Mint` |
+| **Automation & Tools** | `Selenium` `Ionic` `Linux Mint` |
 
 ### 🌍 Languages:
 - 🇺🇸 **English** (Professional Working Proficiency)
