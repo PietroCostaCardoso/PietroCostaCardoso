@@ -9,7 +9,7 @@
 I've been diving deep into technology for the past 4 years, working as a full stack developer. My main focus is on backend, where I build robust and scalable systems.
 
 
-### 🚀 Technology Stack & Engineering Skills
+### Technology Stack & Engineering Skills
 
 | Category | Technologies |
 | :--- | :--- |
@@ -38,4 +38,4 @@ I've been diving deep into technology for the past 4 years, working as a full st
 
 ---
 
-> 🚀 *Focused on delivering robust code and exploring advanced software architecture. Open for high-impact technical collaborations.* 
+> *Focused on delivering robust code and exploring advanced software architecture. Open for high-impact technical collaborations.* 
