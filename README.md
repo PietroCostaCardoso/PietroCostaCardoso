@@ -19,7 +19,7 @@ I've been diving deep into technology for the past 4 years, working as a full st
 | **Software Architecture** | `Design Patterns (GoF)` `MVC` `TDD` `POO` `Clean Code` |
 | **Automation & Tools** | `Selenium` `Ionic` `Linux Mint` |
 
-### 🌍 Languages:
+### Languages:
 - 🇺🇸 **English** (Professional Working Proficiency)
 - 🇪🇸 **Spanish** (Elementary)
 - 🇧🇷 **Portuguese** (Native)
