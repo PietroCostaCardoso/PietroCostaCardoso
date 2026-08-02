@@ -20,9 +20,9 @@ I've been diving deep into technology for the past 4 years, working as a full st
 | **Automation & Tools** | `Selenium` `Ionic` `Linux Mint` |
 
 ### Languages:
-- 🇺🇸 **English** (Professional Working Proficiency)
-- 🇪🇸 **Spanish** (Elementary)
-- 🇧🇷 **Portuguese** (Native)
+- **English** (Professional Working Proficiency)
+- **Spanish** (Elementary)
+- **Portuguese** (Native)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pietro-costa-cardoso-a58a8133b/" target="_blank">
