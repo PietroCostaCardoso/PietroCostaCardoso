@@ -37,5 +37,4 @@ I've been diving deep into technology for the past 3 years, working as a full st
 </div>
 
 ---
-
-> *Focused in my code and exploring advanced software architecture. Better each day* 
+  *Focused in my code and exploring advanced software architecture. Better each day* 
