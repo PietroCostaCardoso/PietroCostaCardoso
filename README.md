@@ -9,7 +9,7 @@
 I've been diving deep into technology since age 16, working as a full stack developer. My main focus is on backend, where I build systems and apply my knowledge.
 
 
-### Technology Stack / Skills
+### Skills
 
 | Category | Technologies |
 | :--- | :--- |
